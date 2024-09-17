@@ -116,7 +116,7 @@ try {
                         		sessionExperimentRecord: [],
                         		sessionStartExperiments: [],
                         		showBestTranslationInGradingRibbon: true,
-                        		xpPromised: 201,
+                        		xpPromised: 2001,
 				}),
 				headers,
 				method: "PUT",
